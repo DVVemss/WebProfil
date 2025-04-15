@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.profile-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 20px auto;
+    border: 5px solid #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+}
+
+.list-group-item {
+    padding: 1.5rem;
+    font-size: 1.1rem;
+}
